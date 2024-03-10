@@ -35,7 +35,9 @@ This would be good for a to do list or for any osrt of task list needed, even gr
 
 <a id="Visuals"></a>
 ## Visuals
-NA
+![Intro Page](https://github.com/MauryIV/note-taker/assets/146037880/391422b4-37f5-4e95-89ad-a7eb0fb174f4)
+![Notes Page](https://github.com/MauryIV/note-taker/assets/146037880/24074f08-2ffb-4c44-aff6-313398436295)
+![Taking Note](https://github.com/MauryIV/note-taker/assets/146037880/0ffda1d2-898b-4a6d-8645-05adc988c232)
 
 <a id="tests"></a>
 ## Tests
