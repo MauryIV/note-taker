@@ -3,7 +3,7 @@
 
 <a id="description"></a>
 ## Description
-This project can add and delete notes you may want to have for yourself. It stores is on it's own API in order to keep that information as well.
+This project can add and delete notes you may want to have for yourself. It stores is on it's own API in order to keep that information as well. [Check it out](https://note-taker-f38a.onrender.com/)
 
 ## Table of Contents
 - [Title](#title)
